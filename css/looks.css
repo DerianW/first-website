@@ -1,0 +1,12 @@
+body{color:blue;}
+body{background-color: yellow;}
+p{background-color: pink;}
+p{color: red;}
+
+.cp
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
